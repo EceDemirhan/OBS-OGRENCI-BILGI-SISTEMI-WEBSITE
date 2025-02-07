@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication21
+build_property.RootNamespace = WebApplication21
+build_property.ProjectDir = C:\Users\ECE\source\repos\WebApplication21\WebApplication21\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ECE\source\repos\WebApplication21\WebApplication21
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Derslers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc2xlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Derslers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc2xlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Derslers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc2xlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Derslers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc2xlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Derslers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc2xlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/DersProgramis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/DersProgramis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/DersProgramis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/DersProgramis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/DersProgramis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1Byb2dyYW1pc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Notlars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90bGFyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Notlars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90bGFyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Notlars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90bGFyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Notlars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90bGFyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Notlars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90bGFyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogrenci/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogrenci/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogrenci/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogrenci/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogrenci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogretmen/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogretmen/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogretmen/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogretmen/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Ogretmen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/SınavTakvimi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2VGFrdmltaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/SınavTakvimi/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2VGFrdmltaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/SınavTakvimi/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2VGFrdmltaVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/SınavTakvimi/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2VGFrdmltaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/SınavTakvimi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU8SxbmF2VGFrdmltaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ECE/source/repos/WebApplication21/WebApplication21/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yztatpdqbg

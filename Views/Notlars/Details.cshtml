@@ -1,0 +1,43 @@
+﻿@model WebApplication21.Models.Notlar
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Notlar</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Ogrenci)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ogrenci.Adi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dersler)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dersler.DersAdi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Not)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Not)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.result)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.result)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,81 @@
+﻿@model IEnumerable<WebApplication21.Models.Ogrenci>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="https://cdn.datatables.net/2.0.7/css/dataTables.dataTables.css" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.datatables.net/2.0.7/js/dataTables.js"></script>
+<h1>Öğrenci Bilgisi</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered table-striped" id="tbllist">
+    <thead class="bg-dark text-white">
+        <tr>
+            <th>
+                Adı
+            </th>
+            <th>
+                Soyadı
+            </th>
+            <th>
+               Sınıf
+            </th>
+            <th>
+                email
+            </th>
+            <th>
+                cinsiyet
+            </th>
+            <th>
+                Fotograf
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Soyadi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.sinif)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cinsiyet)
+                </td>
+                <td class="text-center align-middle">
+                    <img src="@Url.Content(item.Fotograf)" style="display: block; margin: auto;" width="80" height="80" />
+                </td>
+                
+                <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.css" />
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js"></script>
+<script type="text/javascript">
+    var js = jQuery.noConflict(true);
+    js(document).ready(function () {
+        js('#tbllist').DataTable({
+
+        });
+    });</script>

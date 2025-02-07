@@ -1,0 +1,51 @@
+﻿@model WebApplication21.Models.Notlar
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Notlar</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                @Html.Label("OgrenciId", "Öğrenci", new { @class = "control-label" })
+                @Html.DropDownList("OgrenciId", ViewBag.OgrenciId as SelectList, new { @class = "form-control" })
+                @Html.ValidationMessage("OgrenciId", "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("DerslerId", "Dersler", new { @class = "control-label" })
+                @Html.DropDownList("DerslerId", ViewBag.DerslerId as SelectList, new { @class = "form-control" })
+                @Html.ValidationMessage("DerslerId", "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Not", "Not", new { @class = "control-label" })
+                @Html.TextBox("Not", null, new { @class = "form-control" })
+                @Html.ValidationMessage("Not", "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("result", "Sonuç", new { @class = "control-label" })
+                @Html.Editor("result", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessage("result", "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

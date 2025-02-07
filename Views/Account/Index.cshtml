@@ -1,0 +1,92 @@
+﻿@model WebApplication21.Models.ViewModels.LoginViewModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Login - SB Admin</title>
+    <link href="~/css/styles.css" rel="stylesheet" />
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: #010128 !important; /* Koyu mavi */
+        }
+
+        .card-body {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .card-body {
+           position : center;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .container{
+            height: 20px;
+            
+        }
+    </style>
+</head>
+<body>
+    <div id="layoutAuthentication">
+        <div id="layoutAuthentication_content">
+            <main>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-5">
+                            <div class="card shadow-lg border-0 rounded-lg mt-5">
+                                <div class="card-header"><h3 class="text-center font-weight-light my-4">Giriş</h3></div>
+                                <div class="card-body">
+                                    <img src="~/lib/indir.png" alt="Login Image" class="login-image">
+                                    <form asp-action="Index" class="user">
+                                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                        <div class="form-group">
+                                            <label asp-for="Email" class="control-label"></label>
+                                            <input asp-for="Email" class="form-control" />
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                        
+                                        <div class="form-group">
+                                            <label asp-for="Password" class="control-label"></label>
+                                            <input asp-for="Password" type="password" class="form-control" />
+                                            <span asp-validation-for="Password" class="text-danger"></span>
+                                        </div>
+
+                                        <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
+                                            <button type="submit" value="Index" class="btn btn-primary btn-user btn-block">Giriş Yap</button>
+                                        </div>
+                                    </form>
+                                    @Html.Label("Kullaniciadi", "Kullanıcı email =ozgeecedemirhan44@gmail.com", new { @style = "color:blue;font-style:bold;" })
+                                    @Html.Label("Kullanicisifre", "Kullanıcı Şifresi=ece123", new { @style = "color:blue;font-style:bold;" })
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <div id="layoutAuthentication_footer">
+            <footer class="py-4 bg-light mt-auto">
+                <div class="container-fluid px-4">
+                    <div class="d-flex align-items-center justify-content-between small">
+                        <div class="text-muted">Özge Ece Demirhan,2024</div>
+                        <div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+    <script src="~/js/scripts.js"></script>
+</body>
+</html>

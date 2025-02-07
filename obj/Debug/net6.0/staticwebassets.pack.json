@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication21.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication21.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (1).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (1)241544838.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (1)241544838.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (1)244339047.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (1)244339047.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (10).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (10).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (10)242811908.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (10)242811908.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (11).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (11).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (11)242948153.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (11)242948153.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (12).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (12).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (12)242840552.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (12)242840552.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (13).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (13).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (14).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (14).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (2).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (3).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (3)240936553.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (3)240936553.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (3)242928208.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (3)242928208.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (3)243612996.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (3)243612996.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (3)244504688.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (3)244504688.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (4).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (4)240045547.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (4)240045547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (4)242611180.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (4)242611180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (4)244409916.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (4)244409916.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (4)244652542.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (4)244652542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (5).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (5)242641108.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (5)242641108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (6).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (6)242127280.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (6)242127280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (6)242716679.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (6)242716679.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (6)244327273.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (6)244327273.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (6)244702770.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (6)244702770.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (7).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (7)243025300.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (7)243025300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (7)243041789.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (7)243041789.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (8).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (8)242702012.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (8)242702012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (8)244637864.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (8)244637864.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (9).jpg",
+      "PackagePath": "staticwebassets\\contents\\images (9).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (9)241010904.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (9)241010904.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images (9)242626740.jpg",
+      "PackagePath": "staticwebassets\\contents\\images (9)242626740.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images.jpg",
+      "PackagePath": "staticwebassets\\contents\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images240026460.jpg",
+      "PackagePath": "staticwebassets\\contents\\images240026460.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images242224983.jpg",
+      "PackagePath": "staticwebassets\\contents\\images242224983.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images243600655.jpg",
+      "PackagePath": "staticwebassets\\contents\\images243600655.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images244316550.jpg",
+      "PackagePath": "staticwebassets\\contents\\images244316550.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images244612927.jpg",
+      "PackagePath": "staticwebassets\\contents\\images244612927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images244735864.jpg",
+      "PackagePath": "staticwebassets\\contents\\images244735864.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\images245927988.jpg",
+      "PackagePath": "staticwebassets\\contents\\images245927988.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\indir (1).jpg",
+      "PackagePath": "staticwebassets\\contents\\indir (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\indir (1)242919068.jpg",
+      "PackagePath": "staticwebassets\\contents\\indir (1)242919068.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\indir (2).jpg",
+      "PackagePath": "staticwebassets\\contents\\indir (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\indir (2)242734096.jpg",
+      "PackagePath": "staticwebassets\\contents\\indir (2)242734096.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\contents\\indir.jpg",
+      "PackagePath": "staticwebassets\\contents\\indir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\ham.jpeg",
+      "PackagePath": "staticwebassets\\ham.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\images.png",
+      "PackagePath": "staticwebassets\\lib\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\indir.png",
+      "PackagePath": "staticwebassets\\lib\\indir.png"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ECE\\source\\repos\\WebApplication21\\WebApplication21\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication21.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication21.props",
+      "PackagePath": "build\\WebApplication21.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication21.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication21.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication21.props",
+      "PackagePath": "buildTransitive\\WebApplication21.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

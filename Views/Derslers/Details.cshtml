@@ -1,0 +1,37 @@
+﻿@model WebApplication21.Models.Dersler
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Dersler</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DersAdi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DersAdi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.akts)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.akts)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.kredi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.kredi)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

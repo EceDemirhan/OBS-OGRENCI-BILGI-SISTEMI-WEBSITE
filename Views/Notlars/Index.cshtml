@@ -1,0 +1,64 @@
+﻿@model IEnumerable<WebApplication21.Models.Notlar>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Notlar</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered table-striped" id="tbllist">
+    <thead class="bg-dark text-white">
+        <tr>
+            <th>
+                Oğrenci
+            </th>
+            <th>
+                Ders Adı
+            </th>
+            <th>
+                Not
+            </th>
+            <th>
+               Açıklama
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ogrenci.Adi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dersler.DersAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Not)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.result)
+            </td>
+            <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.css" />
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.js"></script>
+<script type="text/javascript">
+    var js = jQuery.noConflict(true);
+    js(document).ready(function () {
+        js('#tbllist').DataTable({
+
+        });
+    });</script>
